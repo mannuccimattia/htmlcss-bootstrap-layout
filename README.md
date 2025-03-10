@@ -6,3 +6,5 @@ Esercitarsi sulla centralizzazione
 E’ possibile centralizzare in qualche punto il fatto che il testo sia bianco?
 E’ possibile centralizzare il layout delle colonne di qualche riga utilizzando la classe row-cols?
 Buon Lavoro e buon divertimento!
+
+DONE
